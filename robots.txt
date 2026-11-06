@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://warmindo-punakawan.vercel.app/sitemap.xml
+
